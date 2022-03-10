@@ -67,7 +67,7 @@ body {
 }
 
 #app {
-  width: 400px;
+  width: 300px;
   height: 100vh;
   margin: auto;
   text-align: center;
